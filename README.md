@@ -1,4 +1,6 @@
-# Variation
+# Variation 🎲
+
+[![Build Status](https://travis-ci.org/cellular/variation.svg?branch=master)](https://travis-ci.org/cellular/variation)
 
 Utility functions to add variations to any kind of output.
 
